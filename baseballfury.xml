@@ -1,6 +1,0 @@
-<Module>
-<ModulePrefs title="blood_tournament"/>
-<Content type="html">
-<![CDATA[ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fr6ks8ab/style@29a37461f0f89719e57624d8c3d22dca4c4d6229/style.css"> <script src="https://cdn.jsdelivr.net/gh/fr6ks8ab/style@29a37461f0f89719e57624d8c3d22dca4c4d6229/UnityProgress.js"></script> <script src="https://cdn.jsdelivr.net/gh/fr6ks8ab/vi9syd1rm@0a2cfee6a83a4004638c9b6d6b767cdc2564dff8/nc73hs6/UnityLoaderbf.js"></script> <script> var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/fr6ks8ab/vi9syd1rm@0a2cfee6a83a4004638c9b6d6b767cdc2564dff8/nc73hs6/MBuild.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}}); </script> <div class="webgl-content"> <div id="gameContainer" style="width: 100%; height: 100%; margin: auto"></div> </div> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/.js"></script> ]]>
-</Content>
-</Module>
