@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="BitLife"/>
+<Content type="html">
+<![CDATA[ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if10dv@5298cbc68ed2d3bb89b217941474668938dba76b/g7kh63s/style.css"> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if10dv@5298cbc68ed2d3bb89b217941474668938dba76b/g7kh63s/TemplateData/UnityProgress.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if10dv@5298cbc68ed2d3bb89b217941474668938dba76b/g7kh63s/Build/UnityLoader.js"></script> <script> var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if10dv@5298cbc68ed2d3bb89b217941474668938dba76b/g7kh63s/Build/BitLife.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}}); </script> <div class="webgl-content"> <div id="gameContainer" style="width: 100%; height: 100%; margin: auto"></div> </div> ]]>
+</Content>
+</Module>
