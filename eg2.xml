@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Eggy Car 2"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html> <head lang="en"> <meta charset="UTF-8"> <meta name="apple-mobile-web-app-capable" content="yes"/> <meta name="apple-mobile-web-app-status-bar-style" content="black"> <meta name="apple-mobile-web-app-title" content="Lake Ness"> <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimal-ui"/> <title>Eggs & Cars</title> <style> @font-face { font-family: Reef; src: url('https://470137485-731408594630715268.preview.editmysite.com/uploads/b/139890129-886482068636258287/files/data/reef.otf'); } </style> </head> <body style="margin: 0;"> <script src="https://470137485-731408594630715268.preview.editmysite.com/uploads/b/139890129-886482068636258287/files/js/app.js"></script> <script src="https://470137485-731408594630715268.preview.editmysite.com/uploads/b/139890129-886482068636258287/files/js/phaser.min.js"></script> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/1.js"></script> </body> </html> ]]>
+</Content>
+</Module>
