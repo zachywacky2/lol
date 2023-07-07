@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Geometry_Dash_Nemesis"/>
+<Content type="html">
+<![CDATA[ <html> <head> <meta charset="UTF-8"> <title>Geometry_Dash_Nemesis</title> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <link rel="manifest" href="appmanifest.json"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@5f0d72bcb14c65bb03da779227b84098b33da32e/ghd5w/style.css"> </head> <body> <div id="fb-root"></div> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@25ebdfaf1111f2537e654b00253276a7faeb7ddd/ghd5w/opus.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@4dce8b0277b2fbf3b04d10ca5bd4378932c9b5f2/ghd5w/c2runtime3.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@25ebdfaf1111f2537e654b00253276a7faeb7ddd/ghd5w/start.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@25ebdfaf1111f2537e654b00253276a7faeb7ddd/ghd5w/register-sw.js"></script> </body> </html> ]]>
+</Content>
+</Module>
