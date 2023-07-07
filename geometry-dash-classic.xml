@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Geometry Dash Classic"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>Geometry Dash Classic</title> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <link rel="manifest" href="appmanifest.json"> <meta name="apple-mobile-web-app-capable" content="yes"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@81aae945d686d5d5ab03a1b75315cba40bff91e6/xv78kr4/style.css" type="text/css"> </head> <body> <div id="fb-root"></div> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@1904caab0d235f9f921df7f8cfc338bfe84ec000/xv78kr4/c2runtime.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@81aae945d686d5d5ab03a1b75315cba40bff91e6/xv78kr4/start.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if7dv@81aae945d686d5d5ab03a1b75315cba40bff91e6/xv78kr4/register-sw.js"></script> </body> </html> ]]>
+</Content>
+</Module>
