@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title=""/>
+<Content type="html">
+<![CDATA[ <html lang="en"> <head> <meta charset="utf-8" /> <meta http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" /> <title>Grindcraft Remastered</title> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if2dv@6a7a5f6258a0d5da6fa9cfaaac872c75b000872c/zbk36g7/assets/css/style.css" type="text/css" /> </head> <body> <div id="turn"></div> <div id="gameContainer"></div> <div id="loader">Loading ...</div> <script type="text/javascript"> var gameName ="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if2dv@709f1227043a95529a2a0602802585b01204b57a/zbk36g7/grindcraft.min.js"; //This all here is for cache busting; function addScript(src, buster, callback) { var s = document.createElement('script'); s.setAttribute('src', src + '?v=' + buster); if (typeof callback === 'function') { s.onload = callback; } document.body.appendChild(s); } addScript('https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/version.js', Date.now(), function() { addScript(gameName, version, function() {}); }); </script> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/1.js"></script> </body> </html> ]]>
+</Content>
+</Module>
