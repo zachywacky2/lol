@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Hanger"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Hanger</title> <style> body { background-color: #fffef4; font-weight: normal !important; text-shadow: 0 0 0 !important; margin: 0px; /*This removes the border around the canvas that Phaser adds, making the game actually take up all the available space*/ } h1, h2, h3, h4, h5, h6 { /*reset for mobile browsers */ font-weight: normal !important; text-shadow: 0 0 0 !important; } </style> </head> <body> <script type="text/javascript" src="https://728491403-149275036295742185.preview.editmysite.com/uploads/b/139890129-201983091749821676/files/game.min.js"></script> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/1.js"></script></body> </html> ]]>
+</Content>
+</Module>
