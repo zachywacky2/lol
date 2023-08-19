@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Super Mario Bros"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html lang="en-us"> <head> <meta charset="utf-8"> <title>Super Mario Bros</title> <link rel="stylesheet" href="https://395713058-173957204856294731.preview.editmysite.com/uploads/b/139890129-314264279627264120/files/index.min.css" type="text/css"> </head> <body> <section id="game"></section> <section id="controls"></section> <script src="https://395713058-173957204856294731.preview.editmysite.com/uploads/b/139890129-314264279627264120/files/FullScreenMario-0.10.2.min.js"></script> <script src="https://395713058-173957204856294731.preview.editmysite.com/uploads/b/139890129-314264279627264120/files/index.min.js"></script> <script src="https://cdn.jsdelivr.net/gh/IlIIll1/more/1.js"></script> </body> </html> ]]>
+</Content>
+</Module>
