@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title=""/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>Tank_Mayhem_Gm</title> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <meta name="generator" content="Construct 3"> <link rel="manifest" href="appmanifest.json"> <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@f07d94f941a68f0e3cb2fb6919b57a3b88e7a4c6/4h6gt6/icons/icon-256.png"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@f07d94f941a68f0e3cb2fb6919b57a3b88e7a4c6/4h6gt6/style.css" type="text/css"> </head> <body> <div id="fb-root"></div> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@f07d94f941a68f0e3cb2fb6919b57a3b88e7a4c6/4h6gt6/pathfind.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@5994d9f6342bb45c81f49e82043e949a7cfd3fdc/4h6gt6/c2runtime.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@f07d94f941a68f0e3cb2fb6919b57a3b88e7a4c6/4h6gt6/start.js"></script> <script src="https://cdn.jsdelivr.net/gh/r3tq6l1/to9d2if11dv@f07d94f941a68f0e3cb2fb6919b57a3b88e7a4c6/4h6gt6/register-sw.js"></script> </body> </html> ]]>
+</Content>
+</Module>
